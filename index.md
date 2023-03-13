@@ -1,5 +1,5 @@
 # Katherine Halama
-<![IMG_20210521_202146-EL](https://user-images.githubusercontent.com/119620298/224808998-c46205ac-6ff1-4936-86e8-4f3552c8f42e.jpg), style="width:500px;height:600px;">
+<![IMG_20210521_202146-EL](https://user-images.githubusercontent.com/119620298/224808998-c46205ac-6ff1-4936-86e8-4f3552c8f42e.jpg), width="500" height="500">
 
 **Katherine Halama** is the Education Program Coordinator for Earth Lab, working with the Earth Analytics Education Team by coordinating with various CU departments and students for the Earth Data Analytics Professional Certificate and the Earth Data Science Corps. She's excited to help students enter the field of earth data science and contribute meaningful change.
 
