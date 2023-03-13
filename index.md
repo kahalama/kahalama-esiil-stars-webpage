@@ -12,3 +12,5 @@ Before joining Earth Lab, Katherine worked at the North Central Climate Adaptati
 
 I'm excited to learn basic data science skills, and how they can help me make meaningful change as an environmental scientist! I would like to use earth data science to help me understand how snowpack levels in the West are changing and how that impacts water supply in the Colorado River Basin. Here is an example question:
 **How does snowpack in the Colorado River Basin effect water levels in Lake Powell and Lake Mead?**
+
+Fun fact! I've rafted the Colorado River in the Grand Canyon four times and caught hundreds of humpback chub (an endangered fish species in the Grand Canyon!)
