@@ -6,7 +6,7 @@
 Before joining Earth Lab, Katherine worked at the North Central Climate Adaptation Science Center and graduated from CU Boulder with a degree in Environmental Studies. Katherine is passionate about natural resource management and environmental policy. Outside of work, Katherine loves to backpack, ski, travel, and write for her photojournalism blog.
 
 - **Email** katherine.halama@colorado.edu
-- **Github** https://github.com/kahalama
+- [**Github**](https://github.com/kahalama)
 - [Linkedin](https://www.linkedin.com/in/katherine-halama-b43356182/)
 - [Website](https://www.katherinehalama.com/)
 
