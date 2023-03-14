@@ -6,12 +6,10 @@
 
 Before joining Earth Lab, Katherine worked at the North Central Climate Adaptation Science Center and graduated from CU Boulder with a degree in Environmental Studies. Katherine is passionate about natural resource management and environmental policy. Outside of work, Katherine loves to backpack, ski, travel, and write for her photojournalism blog.
 
-- **Email** katherine.halama@colorado.edu
+- **Email:** katherine.halama@colorado.edu
 - <a href="https://github.com/kahalama" target="_blank">Github</a>
-
-- [Github](https://github.com/kahalama)
-- [Linkedin](https://www.linkedin.com/in/katherine-halama-b43356182/)
-- [Website](https://www.katherinehalama.com/)
+- <a href="https://www.linkedin.com/in/katherine-halama-b43356182/" target="_blank">Linkedin</a> 
+- <a href="https://www.katherinehalama.com/" target="_blank">Website</a>
 
 I'm excited to learn basic data science skills, and how they can help me make meaningful change as an environmental scientist! I would like to use earth data science to help me understand how snowpack levels in the West are changing and how that impacts water supply in the Colorado River Basin. Here is an example question:
 **How does snowpack in the Colorado River Basin effect water levels in Lake Powell and Lake Mead?**
